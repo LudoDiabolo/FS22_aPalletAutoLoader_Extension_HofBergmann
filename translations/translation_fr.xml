@@ -21,5 +21,12 @@
         <text name="aPalletAutoLoader_hb_fillablePallet" text="HB - Palette remplissable" />
         <text name="aPalletAutoLoader_hb_bigBox" text="HB - Big Box" />
         <text name="aPalletAutoLoader_hb_fillableAppleBox" text="HB - Palette de pommes remplissable" />
+                <text name="aPalletAutoLoader_hb_liquidYeastCanister" text="HB - Levures Pour Brassage" />
+        <text name="aPalletAutoLoader_hb_maltSack" text="HB - Sac de malt" />
+        <text name="aPalletAutoLoader_hb_meatBox" text="HB - Boîtes à viande" />
+        <text name="aPalletAutoLoader_hb_fixFermActiveContainer" text="HB - Fix Ferm Active" />
+        <text name="aPalletAutoLoader_hb_breadbox" text="HB - boîte à pain" />
+        <text name="aPalletAutoLoader_hb_hopsBale" text="HB - Sac De Houblon" />
+        <text name="aPalletAutoLoader_hb_beerCrate" text="HB - Caisse à bière" />
     </texts>
 </l10n>
